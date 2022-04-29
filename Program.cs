@@ -143,7 +143,6 @@ namespace Calculator
             }
             
             if (resposta == "S"){
-                Console.Clear();
                 AppMenu();
             } else if (resposta == "N"){
                 PulaLinha();
